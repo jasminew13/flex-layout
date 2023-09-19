@@ -1,8 +1,23 @@
 body,
 html,
 * {
-    font-size: 10px;
+    font-size: 20px;
     box-sizing: border-box;
-    margin: 0;
+    margin: 10;
     padding: 0;
+}
+
+.card{
+    height: 50vh;
+    width: 25vw;
+    background-color: #BC8DA0;
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px #944161;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+.card-img{
+    width: 100%;
 }
