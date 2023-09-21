@@ -25,6 +25,8 @@ html,
     flex-shrink: 0;
     align-items: center;
     justify-content: space-around;
+    font-family: 'Croissant One', cursive;
+    font-family: 'Lora', serif;
 }
      .card-img{
      width: 80%;
